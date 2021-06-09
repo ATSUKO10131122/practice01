@@ -23,6 +23,8 @@ strong {
   padding: 0 50px;
 }
 .atsuko-hobby1 {
-  width: 800px;
-  padding: 0 50px;
+  width: 300px;
+  padding: 0 20px;
+  display: flex;
+  float: left;
 }
