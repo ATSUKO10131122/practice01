@@ -28,3 +28,10 @@ strong {
   display: flex;
   float: left;
 }
+.atsuko-hobby2 {
+  width: 200px;
+  height: 250px;
+  padding: 20px 0;
+  display: flex;
+  float: right;
+} 
