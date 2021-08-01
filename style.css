@@ -3,7 +3,7 @@ body {
   color: black;
   margin: 0;
   padding: 0;
-}
+} 
 h1 {
   font-size: 40px;
   background-color: #94CC96;
@@ -18,9 +18,11 @@ strong {
   color:#37ab9d;
 }
 .yuji-hobby1 {
-  width: 600px;
-  height: 300px;
-  padding: 0 50px;
+  width: 800px;
+  height: 500px;
+  padding: 0 30px;
+  display: flex;
+  float: left;
 }
 .atsuko-hobby1 {
   width: 300px;
